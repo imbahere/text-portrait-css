@@ -5,7 +5,7 @@
 
 You can create your text portrait using CSS
 
-Go to this [**website**](https://malrazer.github.io/text-portrait-css/)
+Go to this [**website**](https://imbahere.github.io/text-portrait-css/)
 
 Then upload your picture
 
